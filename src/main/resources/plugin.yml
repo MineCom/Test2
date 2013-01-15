@@ -1,0 +1,14 @@
+name: MineCom
+version: 1
+main: Main.MineCom.MineCom.MineCom
+#commands:
+depend: []
+softdepend: []
+database: false
+website: ""
+description: ""
+author: ""
+authors:
+  - ""
+load: postworld
+#permissions:
